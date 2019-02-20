@@ -1,90 +1,90 @@
 body {
-	background: url(../img/stype/bg.jpg);
-	font-family: Arial;
-	font-size: 12px;
-	font-style: normal;
-	font-weight: normal;
-	line-height: 170%;
+    background: url(../img/stype/bg.jpg);
+    font-family: Arial;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 170%;
 }
 input {
-	height: 22px;
-	line-height: 22px;
-	margin: 0px;
-	padding: 0px;
-	vertical-align: middle;
+    height: 22px;
+    line-height: 22px;
+    margin: 0px;
+    padding: 0px;
+    vertical-align: middle;
 }
 .wuzi-box {
-	width: 620px;'
+    width: 620px;'
 
-	display: none;
-	margin: 35px auto 0;
+display: none;
+    margin: 35px auto 0;
 }
 .menu-info {
-	color: #815332;
-	padding: 3px 0 3px 0px;
-	line-height: 170%;
-	text-align: left;
-	width: 100px;
-	margin: 20px 0 5px 35px;
-	float: left;
-	height: 75px
+    color: #815332;
+    padding: 3px 0 3px 0px;
+    line-height: 170%;
+    text-align: left;
+    width: 100px;
+    margin: 20px 0 5px 35px;
+    float: left;
+    height: 75px
 }
 .menu-init {
-	width: 308px;
-	height: 200px;
-	padding: 120px 80px 0;
-	background: url(../img/stype/init-bg.png);
-	margin: 110px auto 0;
+    width: 308px;
+    height: 200px;
+    padding: 120px 80px 0;
+    background: url(../img/stype/init-bg.png);
+    margin: 110px auto 0;
 }
 .menu-info a {
-	display: block;
-	height: 25px;
-	line-height: 25px;
-	background: url(../img/stype/ip-bg.png) no-repeat 0px 6px;
-	padding-left: 22px;
-	cursor: pointer;
+    display: block;
+    height: 25px;
+    line-height: 25px;
+    background: url(../img/stype/ip-bg.png) no-repeat 0px 6px;
+    padding-left: 22px;
+    cursor: pointer;
 }
 .menu-info a.hover {
-	background: url(../img/stype/ip-bg.png) no-repeat 0px -24px;
+    background: url(../img/stype/ip-bg.png) no-repeat 0px -24px;
 }
 .menu-init a.btn {
-	width: 146px;
-	height: 44px;
-	text-align: center;
-	background: url(../img/stype/btn-bg.png) center 0 no-repeat;
-	display: block;
-	margin: 12px auto 10px;
-	font: normal 14px/35px "Âæ?ËΩ???Èª?";
-	color: #815332;
-	cursor: pointer;
-	clear: both;
+    width: 146px;
+    height: 44px;
+    text-align: center;
+    background: url(../img/stype/btn-bg.png) center 0 no-repeat;
+    display: block;
+    margin: 12px auto 10px;
+    font: normal 14px/35px "ÂØ∞ÔøΩÊùûÔøΩÔøΩÔøΩÊ¶õÔøΩ";
+    color: #815332;
+    cursor: pointer;
+    clear: both;
 }
 .menu_init a.btn:hover {
-	background: url(../stype/img/btn-bg.png) center -44px no-repeat;
-	color: #FFA433;
+    background: url(../stype/img/btn-bg.png) center -44px no-repeat;
+    color: #FFA433;
 }
 .bn_box {
-	text-align: center;
-	padding-left: 120px
+    text-align: center;
+    padding-left: 120px
 }
 .bn_box a {
-	background: url(../img/stype/btn-bg1.png);
-	margin: 0px 5px;
-	height: 32px;
-	width: 118px;
-	border: none;
-	cursor: pointer;
-	display: block;
-	float: left;
-	font: normal 14px/30px "Âæ?ËΩ???Èª?";
-	color: #7E410A;
+    background: url(../img/stype/btn-bg1.png);
+    margin: 0px 5px;
+    height: 32px;
+    width: 118px;
+    border: none;
+    cursor: pointer;
+    display: block;
+    float: left;
+    font: normal 14px/30px "ÂØ∞ÔøΩÊùûÔøΩÔøΩÔøΩÊ¶õÔøΩ";
+    color: #7E410A;
 }
 .tgr {
-	opacity: 0.3;
+    opacity: 0.3;
 }
 .dc {
-	clear: both;
+    clear: both;
 }
 .dn {
-	display: none
+    display: none
 }
