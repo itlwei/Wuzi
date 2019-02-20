@@ -1,10 +1,9 @@
-# Wuzi
 五子棋 - in html5
 ===========
 
 作者：一叶孤舟<br>
 联系：itlwei@163.com  QQ:28701884<br>
-Demo：https://itlwei.github.io/Chess/
+Demo：https://itlwei.github.io/Wuzi/
 
 五子棋 - in html5是一款使用html5 canvas开发的开源小游戏，不依赖任何类库，不依赖任何后台程序，全部原生Javascript进行AI计算，欢迎广大业内同行多多交流指正，共同完善。
 
