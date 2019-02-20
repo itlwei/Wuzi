@@ -7,18 +7,17 @@ body {
 	line-height: 170%;
 }
 input {
-solid #999;
 	height: 22px;
 	line-height: 22px;
 	margin: 0px;
-	padding: 0px;/*è¡¨å??è¾??¥æ?????å­?å±?ä¸?*/
-	vertical-align: middle;/*è¡¨å???§ä»¶ä¸?ä¸?å±?ä¸?å¯¹é?*/
+	padding: 0px;
+	vertical-align: middle;
 }
 .wuzi-box {
 	width: 620px;'
 
 	display: none;
-	margin: 30px auto 0;
+	margin: 35px auto 0;
 }
 .menu-info {
 	color: #815332;
